@@ -1,0 +1,1 @@
+This demo implement a local library with indexeddb¡£
